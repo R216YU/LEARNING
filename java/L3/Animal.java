@@ -1,3 +1,5 @@
+package L3;
+
 // クラス宣言
 public class Animal {
     // フィールド定義
@@ -5,7 +7,7 @@ public class Animal {
     String color = "BLACK";
 
     // static final修飾子
-    static final String WOW = "Wan!";
+    static final String WAN = "Wan!";
 
     // メソッド定義
     public String getInfo(String format) {

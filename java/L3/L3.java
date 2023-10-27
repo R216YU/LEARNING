@@ -1,3 +1,5 @@
+package L3;
+
 public class L3 {
     public static void main(String[] args) {
         // Animal coco = new Animal();
@@ -6,7 +8,7 @@ public class L3 {
 
         Animal coco = new Animal("ココ", "白と黒");
 
-        System.out.println(coco.name + " : " + coco.color + " : " + coco.WOW);
+        System.out.println(coco.name + " : " + coco.color + " : " + coco.WAN);
 
         System.out.println(coco.getInfo("%sは%s色の犬"));
 
